@@ -1,0 +1,9 @@
+torch
+torchvision
+Pillow
+loguru
+numpy
+argparse
+matplotlib
+lpips
+torchmetrics
